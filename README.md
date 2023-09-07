@@ -1,5 +1,5 @@
 # Vyacheslav Morozov
-### I'm a front-end developer from Siberia 🥶. Writing in JavaScript(<3). I am also a very risky guy and sometimes I play with the backend 😎
+### I'm a front-end developer from Siberia 🥶. Writing in JavaScript(<3)
 
 ⤷ In my repository you can see Vanilla JS, Vue, React, React Native, Nest, Next, Nuxt, Node. Perhaps you will find something interesting and new for yourself in them. And maybe give me a useful comment :)
 
