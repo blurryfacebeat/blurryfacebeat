@@ -1,9 +1,7 @@
 # Vyacheslav Morozov
 ### I'm a front-end developer from Siberia 🥶. Writing in JavaScript(<3)
 
-⤷ In my repository you can see Vanilla JS, Vue, React, React Native, Nest, Next, Nuxt, Node. Perhaps you will find something interesting and new for yourself in them. And maybe give me a useful comment :)
-
- <a aligh="left" href="mailto:v.morozov.biz@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
+ <a aligh="left" href="mailto:v.morozov.biz@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" />v.morozov.biz@gmail.com</a>  
 
 ⚐ Based in Russia, Tomsk City
 
