@@ -3,7 +3,7 @@
 
  <a aligh="left" href="mailto:v.morozov.biz@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" />v.morozov.biz@gmail.com</a>  
 
-⚐ Based in Russia, Tomsk City
+⚐ Based in Russia, Kazan City
 
 
 
